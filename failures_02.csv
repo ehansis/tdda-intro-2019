@@ -1,0 +1,5 @@
+painting,paintingLabel,creator,width,height,inception,paintingLabel_min_length_ok,creator_values_ok,inception_max_ok,inception_nonnull_ok,n_failures
+http://www.wikidata.org/entity/Q3937389,Portrait of a young man,http://www.wikidata.org/entity/Q8459,0.46,0.58,,true,true,,false,1
+http://www.wikidata.org/entity/Q3794238,Q3794238,http://www.wikidata.org/entity/Q82445,0.51,0.61,1882.0,false,false,false,true,3
+http://www.wikidata.org/entity/Q3937400,Portrait of a Man,http://www.wikidata.org/entity/Q312616,0.3112,0.4382,1475.0,true,false,true,true,1
+http://www.wikidata.org/entity/Q3822931,La madre profuga,http://www.wikidata.org/entity/Q3745137,0.96,0.91,1918.0,false,false,false,true,3

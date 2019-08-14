@@ -1,0 +1,73 @@
+{
+    "creation_metadata": {
+        "local_time": "2019-08-14 11:11:44",
+        "utc_time": "2019-08-14 09:09:44",
+        "creator": "TDDA 1.0.13",
+        "host": "Eberhards-MacBook-Pro.local",
+        "user": "ehansis",
+        "n_records": 31,
+        "n_selected": 31
+    },
+    "fields": {
+        "painting": {
+            "type": "string",
+            "min_length": 39,
+            "max_length": 39,
+            "max_nulls": 0,
+            "no_duplicates": true
+        },
+        "paintingLabel": {
+            "type": "string",
+            "min_length": 17,
+            "max_length": 65,
+            "max_nulls": 0
+        },
+        "creator": {
+            "type": "string",
+            "min_length": 35,
+            "max_length": 39,
+            "max_nulls": 0,
+            "allowed_values": [
+                "http://www.wikidata.org/entity/Q150679",
+                "http://www.wikidata.org/entity/Q290407",
+                "http://www.wikidata.org/entity/Q297",
+                "http://www.wikidata.org/entity/Q310973",
+                "http://www.wikidata.org/entity/Q311398",
+                "http://www.wikidata.org/entity/Q312617",
+                "http://www.wikidata.org/entity/Q4233718",
+                "http://www.wikidata.org/entity/Q47551",
+                "http://www.wikidata.org/entity/Q504949",
+                "http://www.wikidata.org/entity/Q5580",
+                "http://www.wikidata.org/entity/Q5598",
+                "http://www.wikidata.org/entity/Q5681",
+                "http://www.wikidata.org/entity/Q7803",
+                "http://www.wikidata.org/entity/Q8457",
+                "http://www.wikidata.org/entity/Q8459",
+                "http://www.wikidata.org/entity/Q9319",
+                "http://www.wikidata.org/entity/Q9348",
+                "http://www.wikidata.org/entity/Q9440"
+            ]
+        },
+        "width": {
+            "type": "real",
+            "min": 0.24,
+            "max": 2.076,
+            "sign": "positive",
+            "max_nulls": 0
+        },
+        "height": {
+            "type": "real",
+            "min": 0.28,
+            "max": 1.83,
+            "sign": "positive",
+            "max_nulls": 0
+        },
+        "inception": {
+            "type": "int",
+            "min": 1447,
+            "max": 1641,
+            "sign": "positive",
+            "max_nulls": 0
+        }
+    }
+}
